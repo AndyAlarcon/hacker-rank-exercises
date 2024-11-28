@@ -1,0 +1,15 @@
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\Merge two sorted linked list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\Merge two sorted linked list.AssemblyInfoInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\Merge two sorted linked list.AssemblyInfo.cs
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\Merge two sorted linked list.csproj.CoreCompileInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\Merge two sorted linked list.sourcelink.json
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\bin\Debug\net8.0\Merge two sorted linked list.exe
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\bin\Debug\net8.0\Merge two sorted linked list.deps.json
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\bin\Debug\net8.0\Merge two sorted linked list.runtimeconfig.json
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\bin\Debug\net8.0\Merge two sorted linked list.dll
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\bin\Debug\net8.0\Merge two sorted linked list.pdb
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\Merge two sorted linked list.dll
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\refint\Merge two sorted linked list.dll
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\Merge two sorted linked list.pdb
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\Merge two sorted linked list.genruntimeconfig.cache
+C:\Desarrollo\hacker-rank-exercises\Merge two sorted linked list\obj\Debug\net8.0\ref\Merge two sorted linked list.dll
