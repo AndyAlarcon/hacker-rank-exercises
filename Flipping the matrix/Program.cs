@@ -24,9 +24,35 @@ class Result
      * The function accepts 2D_INTEGER_ARRAY matrix as parameter.
      */
 
+    public void print(List<List<int>> matrix)
+    {
+        Console.WriteLine("\n");
+
+        foreach (var row in matrix)
+        {
+            string line = string.Empty;
+            foreach (var col in row)
+            {
+                line += Convert.ToString(col) + " ";
+            }
+            Console.WriteLine(line);
+        }
+    }
+
     public static int flippingMatrix(List<List<int>> matrix)
     {
-        
+        var n = matrix.Count / 2;
+
+        for (int i = 0; i < matrix.Count; i++)
+        {
+            if (matrix[i].Take(n).Sum(p => p) < matrix[i].Skip(n).Sum(p => p))
+            {
+                matrix[i].Reverse();
+            }
+        }
+        print(matrix);
+
+        return 0;
     }
 
 }
@@ -35,7 +61,7 @@ class Solution
 {
     public static void Main(string[] args)
     {
-        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+        // TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
         int q = Convert.ToInt32(Console.ReadLine().Trim());
 
@@ -52,10 +78,10 @@ class Solution
 
             int result = Result.flippingMatrix(matrix);
 
-            textWriter.WriteLine(result);
+            // textWriter.WriteLine(result);
         }
 
-        textWriter.Flush();
-        textWriter.Close();
+        // textWriter.Flush();
+        // textWriter.Close();
     }
 }

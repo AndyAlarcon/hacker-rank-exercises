@@ -1,0 +1,15 @@
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\Flipping the matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\Flipping the matrix.AssemblyInfoInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\Flipping the matrix.AssemblyInfo.cs
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\Flipping the matrix.csproj.CoreCompileInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\Flipping the matrix.sourcelink.json
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\bin\Debug\net8.0\Flipping the matrix.exe
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\bin\Debug\net8.0\Flipping the matrix.deps.json
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\bin\Debug\net8.0\Flipping the matrix.runtimeconfig.json
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\bin\Debug\net8.0\Flipping the matrix.dll
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\bin\Debug\net8.0\Flipping the matrix.pdb
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\Flipping the matrix.dll
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\refint\Flipping the matrix.dll
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\Flipping the matrix.pdb
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\Flipping the matrix.genruntimeconfig.cache
+C:\Desarrollo\hacker-rank-exercises\Flipping the matrix\obj\Debug\net8.0\ref\Flipping the matrix.dll
