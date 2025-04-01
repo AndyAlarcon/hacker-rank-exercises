@@ -24,7 +24,7 @@ class Result
      * The function accepts 2D_INTEGER_ARRAY matrix as parameter.
      */
 
-    public void print(List<List<int>> matrix)
+    public static void print(List<List<int>> matrix)
     {
         Console.WriteLine("\n");
 
@@ -38,19 +38,64 @@ class Result
             Console.WriteLine(line);
         }
     }
-
-    public static int flippingMatrix(List<List<int>> matrix)
+    public static List<List<int>> reverseMatrix(List<List<int>> matrix)
     {
-        var n = matrix.Count / 2;
+        List<List<int>> reverseMatrix = new List<List<int>>();
 
         for (int i = 0; i < matrix.Count; i++)
         {
-            if (matrix[i].Take(n).Sum(p => p) < matrix[i].Skip(n).Sum(p => p))
+            List<int> reverseRow = new List<int>();
+
+            for(int j = 0; j < matrix.Count; j++)
             {
-                matrix[i].Reverse();
+                reverseRow.Add(matrix[j][i]);
             }
+            reverseMatrix.Add(reverseRow);
         }
-        print(matrix);
+        return reverseMatrix;
+    }
+    public static int flippingMatrix(List<List<int>> matrix)
+    {
+        // var n = matrix.Count / 2;
+
+        // // print (reverseMatrix(matrix));
+
+        // for (int i = 0; i < matrix.Count; i++)
+        // {
+        //     if (matrix[i].Take(n).Sum(p => p) < matrix[i].Skip(n).Sum(p => p))
+        //     {
+        //         matrix[i].Reverse();
+        //     }
+        // }
+        // Console.WriteLine("Operación en filas");
+
+        // print(matrix);
+
+        // var reverseAuxMatrix = reverseMatrix(matrix);
+
+        // for (int i = 0; i < matrix.Count; i++)
+        // {
+        //     if (reverseAuxMatrix[i].Take(n).Sum(p => p) < reverseAuxMatrix[i].Skip(n).Sum(p => p))
+        //     {
+        //         reverseAuxMatrix[i].Reverse();
+        //     }
+        // }
+        // Console.WriteLine("Operación en columnas");
+        // print(reverseAuxMatrix);
+
+
+        // matrix = reverseMatrix(reverseAuxMatrix);
+
+        // Console.WriteLine("final");
+
+        // print(matrix);
+
+        var maxRowSum = 0;
+
+        for(int i = 0; i < matrix.Count; i ++)
+        {
+
+        }
 
         return 0;
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flipping the matrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1393373dd705151118b8411813a0972950c47719")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72838467291801e0099e754d96562d49892c239d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flipping the matrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flipping the matrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

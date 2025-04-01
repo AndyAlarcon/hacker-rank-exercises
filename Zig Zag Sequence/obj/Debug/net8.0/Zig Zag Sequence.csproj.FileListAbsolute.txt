@@ -1,0 +1,15 @@
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\Zig Zag Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\Zig Zag Sequence.AssemblyInfoInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\Zig Zag Sequence.AssemblyInfo.cs
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\Zig Zag Sequence.csproj.CoreCompileInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\Zig Zag Sequence.sourcelink.json
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\bin\Debug\net8.0\Zig Zag Sequence.exe
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\bin\Debug\net8.0\Zig Zag Sequence.deps.json
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\bin\Debug\net8.0\Zig Zag Sequence.runtimeconfig.json
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\bin\Debug\net8.0\Zig Zag Sequence.dll
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\bin\Debug\net8.0\Zig Zag Sequence.pdb
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\Zig Zag Sequence.dll
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\refint\Zig Zag Sequence.dll
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\Zig Zag Sequence.pdb
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\Zig Zag Sequence.genruntimeconfig.cache
+C:\Desarrollo\hacker-rank-exercises\Zig Zag Sequence\obj\Debug\net8.0\ref\Zig Zag Sequence.dll
