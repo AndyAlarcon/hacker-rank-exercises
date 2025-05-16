@@ -1,0 +1,15 @@
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\GridChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\GridChallenge.AssemblyInfoInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\GridChallenge.AssemblyInfo.cs
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\GridChallenge.csproj.CoreCompileInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\GridChallenge.sourcelink.json
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\bin\Debug\net9.0\GridChallenge.exe
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\bin\Debug\net9.0\GridChallenge.deps.json
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\bin\Debug\net9.0\GridChallenge.runtimeconfig.json
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\bin\Debug\net9.0\GridChallenge.dll
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\bin\Debug\net9.0\GridChallenge.pdb
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\GridChallenge.dll
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\refint\GridChallenge.dll
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\GridChallenge.pdb
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\GridChallenge.genruntimeconfig.cache
+C:\Desarrollo\hacker-rank-exercises\Grid Challenge\GridChallenge\obj\Debug\net9.0\ref\GridChallenge.dll
