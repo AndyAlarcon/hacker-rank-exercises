@@ -1,0 +1,15 @@
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\RecursiveDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\RecursiveDigitSum.AssemblyInfoInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\RecursiveDigitSum.AssemblyInfo.cs
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\RecursiveDigitSum.csproj.CoreCompileInputs.cache
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\RecursiveDigitSum.sourcelink.json
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\bin\Debug\net9.0\RecursiveDigitSum.exe
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\bin\Debug\net9.0\RecursiveDigitSum.deps.json
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\bin\Debug\net9.0\RecursiveDigitSum.runtimeconfig.json
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\bin\Debug\net9.0\RecursiveDigitSum.dll
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\bin\Debug\net9.0\RecursiveDigitSum.pdb
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\RecursiveDigitSum.dll
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\refint\RecursiveDigitSum.dll
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\RecursiveDigitSum.pdb
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\RecursiveDigitSum.genruntimeconfig.cache
+C:\Desarrollo\hacker-rank-exercises\Recursive Digit Sum\RecursiveDigitSum\obj\Debug\net9.0\ref\RecursiveDigitSum.dll
